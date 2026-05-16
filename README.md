@@ -1,4 +1,4 @@
-# The Jua Kali Apprenticeship Matcher 🚀
+# The Jua Kali Apprenticeship Matcher 
 
 **Build AI Agents. Solve Kenya’s Real Problems.**
 
